@@ -1,0 +1,9 @@
+HS01,Hoàng Văn A,28,Yếu
+HS02,Lê Thị K,0,null
+HS03,Nguyễn Thị C,0,null
+HS04,Nguyễn Như D,0,null
+HS05,Nguyễn Trọng E,0,null
+HS06,Nguyễn Văn G,0,null
+HS07,Hoàng Thị F,0,null
+HS08,Trần Văn H,0,null
+HS09,Lê Thị K,0,null
